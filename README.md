@@ -18,6 +18,12 @@
   다시 작업 브랜치로 checkout 해서 `git rebase master`합니다.
   * conflict이 생기면 수정하고, `git push origin +[브랜치명]`으로 fork된 저장소에 강제 업데이트합니다.
 
+## 이 앱을 만드는 사람들
+- 신정섭
+- 김두식
+- 박주형
+
+
 > swift2란? ([링크](https://developer.apple.com/swift/))
 > ![swift](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/130px-Swift_logo.svg.png)
  
